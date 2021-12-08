@@ -7,8 +7,8 @@ try:
 except ImportError:
     from urllib2 import urlopen, Request
 
-app_id = "267790834055843"
-app_secret = "214a61e406c30dc871ec94bd8ec67201" 
+app_id = <your_app_id>
+app_secret = <Your_secret_Key> 
 page_id = "dominospizzaindia"
 
 # input date formatted as YYYY-MM-DD
